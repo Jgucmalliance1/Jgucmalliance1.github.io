@@ -1430,7 +1430,7 @@ select {
 }
 
 .logo-image {
-  max-width: 80px;
+  max-width: 60px;
 }
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
